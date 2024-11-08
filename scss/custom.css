@@ -158,8 +158,8 @@
   --bs-secondary-bg-rgb: 52, 58, 64;
   --bs-tertiary-color: rgba(222, 226, 230, 0.5);
   --bs-tertiary-color-rgb: 222, 226, 230;
-  --bs-tertiary-bg: #181853;
-  --bs-tertiary-bg-rgb: 24, 24, 83;
+  --bs-tertiary-bg: #2b3035;
+  --bs-tertiary-bg-rgb: 43, 48, 53;
   --bs-primary-text-emphasis: #c692eb;
   --bs-secondary-text-emphasis: #8998dd;
   --bs-success-text-emphasis: #c8e8b4;
@@ -11995,7 +11995,4 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
-}
-.navbar-brand {
-  font-family: "Libre Baskerville";
 }/*# sourceMappingURL=custom.css.map */
