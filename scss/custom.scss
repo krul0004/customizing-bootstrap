@@ -33,14 +33,13 @@ $danger: #E5446D;
 $light: #f2f2f2;
 $dark: #181853;
 
-$body-bg: $light;
+$body-bg: #f2f2f2;
 
 $body-tertiary-bg-dark:             $dark !default;
 
 
 // Adjust nav link hover color here
-
-$nav-link-hover-color:  $primary;
+$navbar-dark-hover-color:  rgba(160 74 221);
 
 
 // Typography
